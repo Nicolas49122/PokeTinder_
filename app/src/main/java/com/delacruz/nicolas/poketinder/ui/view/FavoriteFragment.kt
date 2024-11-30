@@ -10,6 +10,7 @@ import androidx.fragment.app.viewModels
 import com.delacruz.nicolas.poketinder.data.database.entities.MyPokemonEntity
 import com.delacruz.nicolas.poketinder.databinding.FragmentFavoriteBinding
 import com.delacruz.nicolas.poketinder.ui.adapter.MyPokemonsAdapater
+import com.delacruz.nicolas.poketinder.ui.viewmodel.FavoriteViewModel
 
 class FavoriteFragment : Fragment() {
 

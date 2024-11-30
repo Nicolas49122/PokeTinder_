@@ -1,4 +1,4 @@
-package com.delacruz.nicolas.poketinder.ui.view
+package com.delacruz.nicolas.poketinder.ui.viewmodel
 
 import android.content.Context
 import androidx.lifecycle.MutableLiveData
